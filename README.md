@@ -1,4 +1,4 @@
-## Hi there 👋
+## Code speaks for itself
 
 <!--
 **GamedAreS2176/GamedAreS2176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
